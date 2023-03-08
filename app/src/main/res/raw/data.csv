@@ -1,0 +1,37 @@
+0,1,1,Survive working on a Skyrise
+1,2,2,You arrive onsite at 6am
+2,4,3,Do you wear a hard hat on site?
+3,0,0,A brick falls and hits your head - You Die.
+4,6,5,Do you wear a hi-vis vest?
+5,0,0,A crane cannot see you and crushes you with a loaded pallet - You Die.
+6,7,7,Head up to the top floor
+7,9,8,Do you get someone to check your harness before descending?
+8,0,0,You do not follow safety procautions and fall from the 18th floor - You Die.
+9,11,10,It is almost lunch and you are behind. Do you rush?
+10,13,13,Don't rush - The work is good quality and your boss rewards you with extra lunch.
+11,13,12,Rush - The manager is discraced by the work quality - Do you apologise?
+12,0,0,Your boss is furious with your attitude and fires you.
+13,14,14,Take lunch - Get back to work
+14,15,15,Your boss calls you over and tells you the brickwork needs to be finished by 5PM or else.
+15,16,17,Do you rush to meet the deadline time?
+16,0,0,The rushed wall is unsecure and falls after you finish - You are fired
+17,18,19,Do not rush - You are behind. Do you ask your friends for help?
+18,20,20,They agree as long as you help them run an errand and buy the first few rounds later.
+19,20,20,They walk over and help because you are behind as long as you help them run an errand later.
+20,21,21,The wall is finished. Your boss is impressed and offers you a free drink each later.
+21,22,22,You go home and shower for the pub. Your friend comes and picks you up.
+22,23,24,Your friend tells you he needs to pick something up. Do you wait in the car?
+23,26,26,You wait in the car for your friend to come back and continue to the pub.
+24,25,26,You meet with a man with a deep scar on his face. Do you move closer to see it better?
+25,0,0,The man becomes violent and stabs you - You Die.
+26,27,28,Your friend offers some of what he collected to you. Do you take it?
+27,29,30,You begin to hallucinate. Do you go home?
+28,32,33,Your friend takes something and becomes drowsy. Do you take him home and come back?
+29,0,0,On your way home you do not see an incoming car - You Die.
+30,31,31,You enter the pub and sit with your manager and colleagues
+31,0,0,Your manager sees you are under the influence and fires you on the spot
+32,33,33,He gets home safe and you head back to the pub
+33,34,34,You enter the pub and sit with your manager and colleagues
+34,35,35,Your boss buys your drink and explains how happy he is with you -  A promotion may not be too far away.
+35,36,36,Thank him and enjoy the rest of the night
+36,0,0,THE END
